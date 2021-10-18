@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/macbookpro15/Documents/GitHub/wiimote_esp32_servos/include",
-                "/Users/macbookpro15/Documents/GitHub/wiimote_esp32_servos/src",
-                "/Users/macbookpro15/Documents/GitHub/wiimote_esp32_servos/.pio/libdeps/esp32dev/ESP32Wiimote",
-                "/Users/macbookpro15/Documents/GitHub/wiimote_esp32_servos/.pio/libdeps/esp32dev/ESP32Servo/src",
+                "/Users/macbookpro15/Documents/GitHub/wiimote-eps32-robot-arm/include",
+                "/Users/macbookpro15/Documents/GitHub/wiimote-eps32-robot-arm/src",
+                "/Users/macbookpro15/Documents/GitHub/wiimote-eps32-robot-arm/.pio/libdeps/esp32dev/ESP32Wiimote",
+                "/Users/macbookpro15/Documents/GitHub/wiimote-eps32-robot-arm/.pio/libdeps/esp32dev/ESP32Servo/src",
                 "/Users/macbookpro15/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "/Users/macbookpro15/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "/Users/macbookpro15/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -110,10 +110,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/macbookpro15/Documents/GitHub/wiimote_esp32_servos/include",
-                    "/Users/macbookpro15/Documents/GitHub/wiimote_esp32_servos/src",
-                    "/Users/macbookpro15/Documents/GitHub/wiimote_esp32_servos/.pio/libdeps/esp32dev/ESP32Wiimote",
-                    "/Users/macbookpro15/Documents/GitHub/wiimote_esp32_servos/.pio/libdeps/esp32dev/ESP32Servo/src",
+                    "/Users/macbookpro15/Documents/GitHub/wiimote-eps32-robot-arm/include",
+                    "/Users/macbookpro15/Documents/GitHub/wiimote-eps32-robot-arm/src",
+                    "/Users/macbookpro15/Documents/GitHub/wiimote-eps32-robot-arm/.pio/libdeps/esp32dev/ESP32Wiimote",
+                    "/Users/macbookpro15/Documents/GitHub/wiimote-eps32-robot-arm/.pio/libdeps/esp32dev/ESP32Servo/src",
                     "/Users/macbookpro15/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "/Users/macbookpro15/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "/Users/macbookpro15/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -211,7 +211,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=50200",
+                "PLATFORMIO=50201",
                 "ARDUINO_ESP32_DEV",
                 "ESP32",
                 "ESP_PLATFORM",
