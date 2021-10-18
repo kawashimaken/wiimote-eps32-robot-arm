@@ -3,6 +3,7 @@
 # what is this?
 
 Take a look at description YouTube video click the picture below or click the link here 
+[![](https://img.youtube.com/vi/TPcjP3Q70mc/0.jpg)](https://www.youtube.com/watch?v=TPcjP3Q70mc)
 
 
 sender: use wiimote and wiichuck to send control data via bluetooth.
